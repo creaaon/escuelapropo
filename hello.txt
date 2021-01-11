@@ -3,6 +3,11 @@ este _vimrc si me sirve para trabajar bien en vim
 esto está muy bueno 
 
 
+Este es el primer cambio para hacer un git diff
 
+Si el aprende en casa de español es muy pesada o no la pudiste enviar, lo puedes enviar después
 
 ya me voy mejor, deja hago lo de git commit
+
+
+Este es el cambio después de el primer commit 
