@@ -1,0 +1,8 @@
+este es un archivo de prueba para ver como le andamos con el git
+este _vimrc si me sirve para trabajar bien en vim
+esto está muy bueno 
+
+
+
+
+ya me voy mejor, deja hago lo de git commit
